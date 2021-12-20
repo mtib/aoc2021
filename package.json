@@ -1,0 +1,10 @@
+{
+  "name": "aoc2012",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Markus Becker <mtib.becker@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "day": "node start"
+  }
+}
